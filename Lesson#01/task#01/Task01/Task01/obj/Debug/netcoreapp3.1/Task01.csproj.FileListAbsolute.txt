@@ -1,0 +1,13 @@
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\obj\Debug\netcoreapp3.1\Task01.csprojAssemblyReference.cache
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfoInputs.cache
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfo.cs
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\obj\Debug\netcoreapp3.1\Task01.csproj.CoreCompileInputs.cache
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\bin\Debug\netcoreapp3.1\Task01.exe
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\bin\Debug\netcoreapp3.1\Task01.deps.json
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.json
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.dev.json
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\bin\Debug\netcoreapp3.1\Task01.dll
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\bin\Debug\netcoreapp3.1\Task01.pdb
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\obj\Debug\netcoreapp3.1\Task01.dll
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\obj\Debug\netcoreapp3.1\Task01.pdb
+S:\Gitrepos\Algorytms\Lesson#01\task#01\Task01\Task01\obj\Debug\netcoreapp3.1\Task01.genruntimeconfig.cache
